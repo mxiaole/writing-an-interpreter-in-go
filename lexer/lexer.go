@@ -2,7 +2,7 @@ package lexer
 
 import "github.com/mxiaole/interpreter/token"
 
-// 词法分析
+// Lexer 词法分析
 type Lexer struct {
 	input        string
 	position     int

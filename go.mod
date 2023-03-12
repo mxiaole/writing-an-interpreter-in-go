@@ -1,3 +1,3 @@
 module github.com/mxiaole/interpreter
 
-go 1.15
+go 1.18
